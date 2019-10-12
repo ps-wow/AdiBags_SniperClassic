@@ -1,0 +1,11 @@
+<Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+
+    <Script file="categories\vendortrash.lua"/>
+
+    <!-- Reputation -->
+    <Script file="categories\rep\ad.lua"/>
+
+    <!-- Main -->
+    <Script file="main.lua"/>
+
+</Ui>
