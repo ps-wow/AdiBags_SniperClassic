@@ -4,6 +4,7 @@
 
     <!-- Reputation -->
     <Script file="categories\rep\ad.lua"/>
+    <Script file="categories\rep\timbermaw.lua"/>
 
     <!-- Main -->
     <Script file="main.lua"/>

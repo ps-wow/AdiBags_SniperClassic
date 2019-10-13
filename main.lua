@@ -31,13 +31,20 @@ end
 
 function Core:DefaultFilter(slotData)
   local tables = {
+    -- Reputation
     ['ad'] = 'Rep: Argent Dawn',
+    ['timbermaw'] = 'Rep: Timbermaw',
+    -- Other
     ['vendor'] = 'Vendor Trash'
   }
 
   for tbl,desc in pairs(tables) do
-    if AddonTable[tbl]['items'][slotData.itemId] then
-      return desc
+    if AddonTable[tbl] then
+      if AddonTable[tbl]['items'] then
+        if AddonTable[tbl]['items'][slotData.itemId] then
+          return desc
+        end
+      end
     end
   end
 end
