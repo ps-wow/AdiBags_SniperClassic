@@ -31,11 +31,22 @@ end
 
 function Core:DefaultFilter(slotData)
   local tables = {
+    -- Professions
+    ['lw'] = 'Trade Goods: Leatherworking',
     -- Reputation
     ['ad'] = 'Rep: Argent Dawn',
+    ['tb'] = 'Rep: Thorium Brotherhood',
     ['timbermaw'] = 'Rep: Timbermaw',
+    -- Quests
+    ['brd'] = 'Quest: Blackrock Depths',
+    ['lbrs'] = 'Quest: LBRS',
+    ['ubrs'] = 'Quest: UBRS',
+    ['mara'] = 'Quest: Mara',
     -- Other
-    ['vendor'] = 'Vendor Trash'
+    ['vendor'] = 'Vendor Trash',
+    ['keys'] = 'Keys',
+    ['travel'] = 'Travel',
+    ['ammo'] = 'Ammunition'
   }
 
   for tbl,desc in pairs(tables) do

@@ -1,10 +1,24 @@
 <Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
 
-    <Script file="categories\vendortrash.lua"/>
+    <!-- Profession -->
+    <Script file="categories\profession\lw.lua"/>
 
     <!-- Reputation -->
     <Script file="categories\rep\ad.lua"/>
     <Script file="categories\rep\timbermaw.lua"/>
+
+    <!-- Quests -->
+
+    <!-- Quests: Dungeons -->
+    <Script file="categories\quests\brd.lua"/>
+    <Script file="categories\quests\lbrs.lua"/>
+    <Script file="categories\quests\ubrs.lua"/>
+
+    <!-- Misc -->
+    <Script file="categories\vendortrash.lua"/>
+    <Script file="categories\misc\ammo.lua"/>
+    <Script file="categories\misc\keys.lua"/>
+    <Script file="categories\misc\travel.lua"/>
 
     <!-- Main -->
     <Script file="main.lua"/>
