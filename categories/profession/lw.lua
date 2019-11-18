@@ -21,7 +21,8 @@ AddonTable.lw = {
     [15407] = true, -- Cured Rugged Hide
 
     -- Scales
-    [7286] = true, -- Black Whelp Scale
+    [5784]  = true, -- Slimy Murloc Scale
+    [7286]  = true, -- Black Whelp Scale
     [15408] = true, -- Heavy Scorpid Scale
 
     -- Other
