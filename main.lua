@@ -28,6 +28,9 @@ function Core:DefaultFilter(slotData)
     ['lbrs'] = 'Quest: LBRS',
     ['ubrs'] = 'Quest: UBRS',
     ['mara'] = 'Quest: Mara',
+    -- Class
+    -- Warlock
+    ['shards'] = 'Soul Shards',
     -- Other
     ['vendor'] = 'Vendor Trash',
     ['keys'] = 'Keys',

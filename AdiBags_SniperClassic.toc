@@ -1,4 +1,4 @@
-## Interface: 11300
+## Interface: 11303
 ## Title: AdiBags: |cff69ccf0Sniper Classic|r
 ## Notes: PrivateSniper's Custom AdiBags filters for Classic
 ## Author: PrivateSniper

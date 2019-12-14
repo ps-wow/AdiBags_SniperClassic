@@ -23,6 +23,9 @@
     <!-- Quests: Raids -->
     <Script file="categories\quests\mc.lua"/>
 
+    <!-- Class -->
+    <Script file="categories\class\warlock.lua"/>
+
     <!-- Misc -->
     <Script file="categories\vendortrash.lua"/>
     <Script file="categories\misc\ammo.lua"/>
