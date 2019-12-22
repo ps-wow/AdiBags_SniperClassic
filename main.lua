@@ -29,6 +29,7 @@ function Core:DefaultFilter(slotData)
     ['ubrs'] = 'Quest: UBRS',
     ['mara'] = 'Quest: Mara',
     -- Class
+    ['rogue'] = 'Rogue',
     -- Warlock
     ['shards'] = 'Soul Shards',
     -- Other

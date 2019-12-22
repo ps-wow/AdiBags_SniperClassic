@@ -24,6 +24,7 @@
     <Script file="categories\quests\mc.lua"/>
 
     <!-- Class -->
+    <Script file="categories\class\rogue.lua"/>
     <Script file="categories\class\warlock.lua"/>
 
     <!-- Misc -->
