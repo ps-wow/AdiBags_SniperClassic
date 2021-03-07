@@ -1,8 +1,8 @@
 local AddonName, AddonTable = ...
 
-AddonTable.dm = {
+AddonTable.deadmines = {
   ['name'] = 'D: Deadmines',
   ['items'] = {
-    -- [nnnnn] = true, -- Item Name
+    --[4583] = true, -- Thick Furry Mane
   }
 }

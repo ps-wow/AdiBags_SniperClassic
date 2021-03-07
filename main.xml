@@ -1,10 +1,28 @@
 <Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
-
+    <!-- BoE's -->
+    <Script file="categories\boe\boe.lua"/>
+    <Script file="categories\boe\armour\cloth.lua"/>
+    <Script file="categories\boe\armour\jewelry.lua"/>
+    <Script file="categories\boe\armour\leather.lua"/>
+    <Script file="categories\boe\armour\mail.lua"/>
+    <Script file="categories\boe\armour\plate.lua"/>
+    <Script file="categories\boe\weapons\axes.lua"/>
+    <Script file="categories\boe\weapons\daggers.lua"/>
+    <Script file="categories\boe\weapons\maces.lua"/>
+    <Script file="categories\boe\weapons\offhands.lua"/>
+    <Script file="categories\boe\weapons\polearms.lua"/>
+    <Script file="categories\boe\weapons\shields.lua"/>
+    <Script file="categories\boe\weapons\staves.lua"/>
+    <Script file="categories\boe\weapons\swords.lua"/>
+    <Script file="categories\boe\weapons\wands.lua"/>
+    
     <!-- Profession -->
-    <Script file="categories\profession\prof.lua"/>
-    <Script file="categories\profession\lw.lua"/>
+    <Script file="categories\profession\alchemy.lua"/>
+    <Script file="categories\profession\bs.lua"/>
     <Script file="categories\profession\ench.lua"/>
     <Script file="categories\profession\eng.lua"/>
+    <Script file="categories\profession\lw.lua"/>
+    <Script file="categories\profession\prof.lua"/>
     <Script file="categories\profession\tailor.lua"/>
 
     <!-- Reputation -->
@@ -14,18 +32,28 @@
     <!-- Quests -->
 
     <!-- Quests: Dungeons -->
-    <Script file="categories\quests\dm.lua"/>
-    <Script file="categories\quests\mara.lua"/>
     <Script file="categories\quests\brd.lua"/>
+    <Script file="categories\quests\class.lua"/>
+    <Script file="categories\quests\deadmines.lua"/>
+    <Script file="categories\quests\diremaul.lua"/>
     <Script file="categories\quests\lbrs.lua"/>
+    <Script file="categories\quests\mara.lua"/>
+    <Script file="categories\quests\stockades.lua"/>
     <Script file="categories\quests\ubrs.lua"/>
 
     <!-- Quests: Raids -->
     <Script file="categories\quests\mc.lua"/>
 
     <!-- Class -->
+    <Script file="categories\class\druid.lua"/>
+    <Script file="categories\class\hunter.lua"/>
+    <Script file="categories\class\mage.lua"/>
+    <Script file="categories\class\paladin.lua"/>
+    <Script file="categories\class\priest.lua"/>
     <Script file="categories\class\rogue.lua"/>
+    <Script file="categories\class\shaman.lua"/>
     <Script file="categories\class\warlock.lua"/>
+    <Script file="categories\class\warrior.lua"/>
 
     <!-- Misc -->
     <Script file="categories\vendortrash.lua"/>
@@ -38,5 +66,4 @@
 
     <!-- Main -->
     <Script file="main.lua"/>
-
 </Ui>

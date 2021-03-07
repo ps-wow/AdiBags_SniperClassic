@@ -15,10 +15,11 @@ function Core:DefaultFilter(slotData)
   local tables = {
     -- Professions
     ['prof'] = 'Trade Goods: General',
-    ['lw'] = 'Trade Goods: Leatherworking',
+    ['bs'] = 'Trade Goods: Blacksmithing',
     ['ench'] = 'Trade Goods: Enchanting',
-    ['tailor'] = 'Trade Goods: Tailoring',
     ['eng'] = 'Trade Goods: Engineering',
+    ['lw'] = 'Trade Goods: Leatherworking',
+    ['tailor'] = 'Trade Goods: Tailoring',
     -- Reputation
     ['ad'] = 'Rep: Argent Dawn',
     ['tb'] = 'Rep: Thorium Brotherhood',
@@ -29,7 +30,14 @@ function Core:DefaultFilter(slotData)
     ['ubrs'] = 'Quest: UBRS',
     ['mara'] = 'Quest: Mara',
     -- Class
+    ['druid'] = 'Druid',
+    ['mage'] = 'Mage',
+    ['paladin'] = 'Paladin',
+    ['priest'] = 'Priest',
     ['rogue'] = 'Rogue',
+    ['shaman'] = 'Shaman',
+    ['warlock'] = 'Warlock',
+    ['warrior'] = 'Warrior',
     -- Warlock
     ['shards'] = 'Soul Shards',
     -- Other
@@ -49,6 +57,22 @@ function Core:DefaultFilter(slotData)
       end
     end
   end
+
+  if AddonTable.boe.cloth[slotData.itemId] then return "BoE: Cloth" end
+  if AddonTable.boe.leather[slotData.itemId] then return "BoE: Leather" end
+  if AddonTable.boe.mail[slotData.itemId] then return "BoE: Mail" end
+  if AddonTable.boe.plate[slotData.itemId] then return "BoE: Plate" end
+  if AddonTable.boe.jewelry[slotData.itemId] then return "BoE: Jewelry" end
+
+  if AddonTable.boe.axes[slotData.itemId] then return "BoE: Axes" end
+  if AddonTable.boe.daggers[slotData.itemId] then return "BoE: Daggers" end
+  if AddonTable.boe.maces[slotData.itemId] then return "BoE: Maces" end
+  if AddonTable.boe.offhands[slotData.itemId] then return "BoE: Off-Hands" end
+  if AddonTable.boe.polearms[slotData.itemId] then return "BoE: Polearms" end
+  if AddonTable.boe.staves[slotData.itemId] then return "BoE: Staves" end
+  if AddonTable.boe.shields[slotData.itemId] then return "BoE: Shields" end
+  if AddonTable.boe.swords[slotData.itemId] then return "BoE: Swords" end
+  if AddonTable.boe.wands[slotData.itemId] then return "BoE: Wands" end
 end
 
 local filter = AdiBags:RegisterFilter(namespace, 95)
