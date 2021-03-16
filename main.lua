@@ -15,11 +15,19 @@ function Core:DefaultFilter(slotData)
   local tables = {
     -- Professions
     ['prof'] = 'Trade Goods: General',
+    ['alchemy'] = 'Trade Goods: Alchemy',
     ['bs'] = 'Trade Goods: Blacksmithing',
     ['ench'] = 'Trade Goods: Enchanting',
     ['eng'] = 'Trade Goods: Engineering',
     ['lw'] = 'Trade Goods: Leatherworking',
     ['tailor'] = 'Trade Goods: Tailoring',
+    -- Trade Goods
+    ['trade'] = 'Trade Goods: General',
+    ['cloth'] = 'Trade Goods: Cloth',
+    ['herbs'] = 'Trade Goods: Herbalism',
+    ['ore'] = 'Trade Goods: Ore',
+    ['stone'] = 'Trade Goods: Stone',
+    ['gems'] = 'Trade Goods: Gems',
     -- Reputation
     ['ad'] = 'Rep: Argent Dawn',
     ['tb'] = 'Rep: Thorium Brotherhood',
@@ -45,7 +53,11 @@ function Core:DefaultFilter(slotData)
     ['keys'] = 'Keys',
     ['travel'] = 'Travel',
     ['ammo'] = 'Ammunition',
-    ['darkmoon'] = 'Darkmoon Faire'
+    ['darkmoon'] = 'Darkmoon Faire',
+    -- Misc
+    ['containers'] = 'Containers',
+    ['openables'] = 'Openables',
+    ['lockboxes'] = 'Lockboxes'
   }
 
   for tbl,desc in pairs(tables) do

@@ -15,7 +15,7 @@
     <Script file="categories\boe\weapons\staves.lua"/>
     <Script file="categories\boe\weapons\swords.lua"/>
     <Script file="categories\boe\weapons\wands.lua"/>
-    
+
     <!-- Profession -->
     <Script file="categories\profession\alchemy.lua"/>
     <Script file="categories\profession\bs.lua"/>
@@ -24,6 +24,12 @@
     <Script file="categories\profession\lw.lua"/>
     <Script file="categories\profession\prof.lua"/>
     <Script file="categories\profession\tailor.lua"/>
+
+    <!-- Trade Goods -->
+    <Script file="categories\trade\cloth.lua"/>
+    <Script file="categories\trade\herbs.lua"/>
+    <Script file="categories\trade\mining.lua"/>
+    <Script file="categories\trade\misc.lua"/>
 
     <!-- Reputation -->
     <Script file="categories\rep\ad.lua"/>
@@ -58,6 +64,7 @@
     <!-- Misc -->
     <Script file="categories\vendortrash.lua"/>
     <Script file="categories\misc\ammo.lua"/>
+    <Script file="categories\misc\containers.lua"/>
     <Script file="categories\misc\keys.lua"/>
     <Script file="categories\misc\travel.lua"/>
 
