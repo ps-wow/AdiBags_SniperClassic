@@ -11,6 +11,7 @@ AddonTable.ore = {
     [2842] = true, -- Silver Bar
     [3576] = true, -- Tin Bar
     [3577] = true, -- Gold Bar
+    [6037] = true, -- Truesilver Bar
   }
 }
 
@@ -19,6 +20,7 @@ AddonTable.stone = {
   ['items'] = {
     [2835] = true, -- Rough Stone
     [2836] = true, -- Coarse Stone
+    [7912] = true, -- Solid Stone
   }
 }
 
@@ -31,6 +33,8 @@ AddonTable.gems = {
     [1210] = true, -- Shadowgem
     [1705] = true, -- Lesser Moonstone
     [3864] = true, -- Citrine
+    [5498] = true, -- Small Lustrous Pearl
     [5500] = true, -- Iridescent Pearl
+    [7971] = true, -- Black Pearl
   }
 }

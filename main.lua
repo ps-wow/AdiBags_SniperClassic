@@ -21,6 +21,7 @@ function Core:DefaultFilter(slotData)
     ['eng'] = 'Trade Goods: Engineering',
     ['lw'] = 'Trade Goods: Leatherworking',
     ['tailor'] = 'Trade Goods: Tailoring',
+    ['tools'] = 'Tools',
     -- Trade Goods
     ['trade'] = 'Trade Goods: General',
     ['cloth'] = 'Trade Goods: Cloth',
@@ -77,7 +78,9 @@ function Core:DefaultFilter(slotData)
   if AddonTable.boe.jewelry[slotData.itemId] then return "BoE: Jewelry" end
 
   if AddonTable.boe.axes[slotData.itemId] then return "BoE: Axes" end
+  if AddonTable.boe.bows[slotData.itemId] then return "BoE: Bows" end
   if AddonTable.boe.daggers[slotData.itemId] then return "BoE: Daggers" end
+  if AddonTable.boe.guns[slotData.itemId] then return "BoE: Guns" end
   if AddonTable.boe.maces[slotData.itemId] then return "BoE: Maces" end
   if AddonTable.boe.offhands[slotData.itemId] then return "BoE: Off-Hands" end
   if AddonTable.boe.polearms[slotData.itemId] then return "BoE: Polearms" end

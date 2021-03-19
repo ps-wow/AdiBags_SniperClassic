@@ -7,7 +7,9 @@
     <Script file="categories\boe\armour\mail.lua"/>
     <Script file="categories\boe\armour\plate.lua"/>
     <Script file="categories\boe\weapons\axes.lua"/>
+    <Script file="categories\boe\weapons\bows.lua"/>
     <Script file="categories\boe\weapons\daggers.lua"/>
+    <Script file="categories\boe\weapons\guns.lua"/>
     <Script file="categories\boe\weapons\maces.lua"/>
     <Script file="categories\boe\weapons\offhands.lua"/>
     <Script file="categories\boe\weapons\polearms.lua"/>
@@ -24,6 +26,7 @@
     <Script file="categories\profession\lw.lua"/>
     <Script file="categories\profession\prof.lua"/>
     <Script file="categories\profession\tailor.lua"/>
+    <Script file="categories\profession\tools.lua"/>
 
     <!-- Trade Goods -->
     <Script file="categories\trade\cloth.lua"/>
