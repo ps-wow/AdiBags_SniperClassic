@@ -13,4 +13,7 @@ AddonTable.boe.mail = {
 
   -- Wrists
   [6550] = true, -- Soldier's Wristguards
+
+  -- Feet
+  [15599] = true, -- Ancient Greaves
 }
