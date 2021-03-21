@@ -1,10 +1,12 @@
 local AddonName, AddonTable = ...
 
 AddonTable.boe.cloth = {
-  -- Helm
+  -- Helms
   [4385] = true, -- Green Tinted Goggles [Engineering]
+  [10024] = true, -- Black Mageweave Headband [Tailoring]
 
   -- Gloves
+  [2984] = true, -- Seer's Gloves
   [10003] = true, -- Black Mageweave Gloves [Tailoring]
 
   -- Cloaks
@@ -22,11 +24,9 @@ AddonTable.boe.cloth = {
   [6538] = true, -- Willow Robe
   [14091] = true, -- Beaded Robe
 
-  -- Helms
-  [10024] = true, -- Black Mageweave Headband [Tailoring]
-
   -- Wrist
   [9793] = true, -- Ivycloth Bracelets
+  [14122] = true, -- Ritual Bands
 
   -- Legs
   [6540] = true, -- Willow Pants

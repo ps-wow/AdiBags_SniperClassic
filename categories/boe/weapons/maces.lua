@@ -7,4 +7,5 @@ AddonTable.boe.maces = {
 
   -- 2H
   [4570] = true, -- Birchwood Maul
+  [15262] = true, -- Greater Maul
 }

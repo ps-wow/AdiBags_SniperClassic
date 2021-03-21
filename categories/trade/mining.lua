@@ -6,6 +6,7 @@ AddonTable.ore = {
     -- Ore
     [2770] = true, -- Copper Ore
     [2771] = true, -- Tin Ore
+    [2775] = true, -- Silver Ore
     -- Bars
     [2840] = true, -- Copper Bar
     [2842] = true, -- Silver Bar
@@ -35,6 +36,7 @@ AddonTable.gems = {
     [3864] = true, -- Citrine
     [5498] = true, -- Small Lustrous Pearl
     [5500] = true, -- Iridescent Pearl
+    [7909] = true, -- Aquamarine
     [7971] = true, -- Black Pearl
   }
 }

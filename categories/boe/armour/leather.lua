@@ -20,6 +20,7 @@ AddonTable.boe.leather = {
   [7378] = true, -- Dusky Bracers
 
   -- Pants
+  [2974] = true, -- Hunting Pants
   [2986] = true, -- Inscribed Leather Pants
   [6553] = true, -- Bard's Trousers
   [8193] = true, -- Nightscape Pants
