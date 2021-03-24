@@ -10,6 +10,7 @@ AddonTable.boe.cloth = {
   [10003] = true, -- Black Mageweave Gloves [Tailoring]
 
   -- Cloaks
+  [1930] = true, -- Stonemason Cloak
   [4695] = true, -- Burnished Cloak
   [6378] = true, -- Seer's Cape
   [9779] = true, -- Bandit Cloak
@@ -28,12 +29,14 @@ AddonTable.boe.cloth = {
   [9793] = true, -- Ivycloth Bracelets
   [14122] = true, -- Ritual Bands
 
-  -- Legs
+  -- Pants
+  [1929] = true, -- Silk-threaded Trousers
   [6540] = true, -- Willow Pants
 
   -- Feet
   [3065] = true, -- Bright Boots
 
   -- Shoulders
+  [4661] = true, -- Bright Mantle
   [10027] = true, -- Black Mageweave Shoulders [Tailoring]
 }
