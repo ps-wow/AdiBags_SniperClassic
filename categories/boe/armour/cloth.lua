@@ -4,19 +4,23 @@ AddonTable.boe.cloth = {
   -- Helms
   [4385] = true, -- Green Tinted Goggles [Engineering]
   [10024] = true, -- Black Mageweave Headband [Tailoring]
+  [10061] = true, -- Duskwoven Turban
 
   -- Gloves
   [2984] = true, -- Seer's Gloves
+  [6565] = true, -- Shimmering Gloves
   [10003] = true, -- Black Mageweave Gloves [Tailoring]
 
   -- Cloaks
   [1930] = true, -- Stonemason Cloak
   [4695] = true, -- Burnished Cloak
+  [4715] = true, -- Emblazoned Cloak
   [6378] = true, -- Seer's Cape
   [9779] = true, -- Bandit Cloak
 
   -- Belts
   [4699] = true, -- Seer's Belt
+  [13856] = true, -- Runecloth Belt
 
   -- Chests
   [2969] = true, -- Spellbinder Vest

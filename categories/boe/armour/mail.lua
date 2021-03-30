@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.boe.mail = {
   -- Chest
+  [2899] = true, -- Burnished Tunic
   [6336] = true, -- Infantry Tunic
   [9866] = true, -- Renegade Chestguard
   [15487] = true, -- War Torn Tunic
@@ -16,6 +17,7 @@ AddonTable.boe.mail = {
 
   -- Legs
   [6546] = true, -- Soldier's Leggings
+  [15477] = true, -- Charger's Pants
 
   -- Wrists
   [6550] = true, -- Soldier's Wristguards
