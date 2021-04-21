@@ -16,6 +16,7 @@ AddonTable.ench = {
     [11174] = true, -- Lesser Nether Essence
     [11175] = true, -- Greater Nether Essence
     [11176] = true, -- Dream Dust
+    [11177] = true, -- Small Radiant Shard
     [11178] = true, -- Large Radiant Shard
     [11083] = true, -- Soul Dust
 
