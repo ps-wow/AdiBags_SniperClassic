@@ -17,5 +17,6 @@ AddonTable.openables = {
   ['items'] = {
     [5523] = true, -- Small Barnacled Clam
     [5524] = true, -- Thick-shelled Clam
+    [20767] = true, -- Scum Covered Bag
   }
 }

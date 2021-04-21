@@ -10,6 +10,7 @@ AddonTable.boe.axes = {
 
   -- 2H Axes
   [1455] = true, -- Blackrock Champion's Axe
+  [1639] = true, -- Grinning Axe
   [2175] = true, -- Shadowhide Battle Axe
   [3195] = true, -- Barbaric Battle Axe
 }

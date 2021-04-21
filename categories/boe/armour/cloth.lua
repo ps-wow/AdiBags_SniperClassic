@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.boe.cloth = {
   -- Helms
   [4385] = true, -- Green Tinted Goggles [Engineering]
+  [7520] = true, -- Gossamer Headpiece
   [10024] = true, -- Black Mageweave Headband [Tailoring]
   [10061] = true, -- Duskwoven Turban
 
@@ -16,10 +17,15 @@ AddonTable.boe.cloth = {
   [4695] = true, -- Burnished Cloak
   [4715] = true, -- Emblazoned Cloak
   [6378] = true, -- Seer's Cape
+  [6575] = true, -- Defender Cloak
+  [6585] = true, -- Scouting Cloak
   [9779] = true, -- Bandit Cloak
+  [9822] = true, -- Durable Cape
+  [14673] = true, -- Pridelord Cape
 
   -- Belts
   [4699] = true, -- Seer's Belt
+  [9799] = true, -- Ivycloth Sash
   [13856] = true, -- Runecloth Belt
 
   -- Chests
@@ -35,12 +41,19 @@ AddonTable.boe.cloth = {
 
   -- Pants
   [1929] = true, -- Silk-threaded Trousers
+  [2982] = true, -- Seer's Pants
   [6540] = true, -- Willow Pants
+  [9797] = true, -- Ivycloth Pants
+  [14274] = true, -- Gaea's Leggings
 
   -- Feet
   [3065] = true, -- Bright Boots
+  [10058] = true, -- Duskwoven Sandals
+  [14174] = true, -- Buccaneer's Boots
 
   -- Shoulders
   [4661] = true, -- Bright Mantle
+  [8250] = true, -- Imperial Red Mantle
   [10027] = true, -- Black Mageweave Shoulders [Tailoring]
+  [14278] = true, -- Opulent Mantle
 }

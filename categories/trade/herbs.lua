@@ -12,5 +12,6 @@ AddonTable.herbs = {
     [2450] = true, -- Briarthorn
     [2452] = true, -- Swiftthistle
     [2453] = true, -- Bruiseweed
+    [3821] = true, -- Goldthorn
   }
 }

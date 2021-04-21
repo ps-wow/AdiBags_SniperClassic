@@ -12,6 +12,7 @@ AddonTable.boe.swords = {
   -- 2H Swords
   [3192] = true, -- Bastard Sword
   [4567] = true, -- Merc Sword
+  [15248] = true, -- Gleaming Claymore
   [15249] = true, -- Polished Zweihander
   [15251] = true, -- Headstriker Sword
 }
