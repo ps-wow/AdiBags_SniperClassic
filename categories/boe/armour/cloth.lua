@@ -34,6 +34,7 @@ AddonTable.boe.cloth = {
   [2981] = true, -- Seer's Robe
   [6531] = true, -- Barbaric Cloth Robe
   [6538] = true, -- Willow Robe
+  [6569] = true, -- Shimmering Robe
   [14091] = true, -- Beaded Robe
 
   -- Wrist
