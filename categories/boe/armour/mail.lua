@@ -6,6 +6,7 @@ AddonTable.boe.mail = {
 
   -- Chest
   [2899] = true, -- Burnished Tunic
+  [4074] = true, -- Mail Combat Armor
   [6336] = true, -- Infantry Tunic
   [9818] = true, -- Fortified Chain
   [9866] = true, -- Renegade Chestguard
