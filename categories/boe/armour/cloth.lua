@@ -25,6 +25,7 @@ AddonTable.boe.cloth = {
 
   -- Belts
   [4699] = true, -- Seer's Belt
+  [6539] = true, -- Willow Belt
   [9799] = true, -- Ivycloth Sash
   [13856] = true, -- Runecloth Belt
 
@@ -44,6 +45,7 @@ AddonTable.boe.cloth = {
   [2982] = true, -- Seer's Pants
   [6540] = true, -- Willow Pants
   [9797] = true, -- Ivycloth Pants
+  [14119] = true, -- Aboriginal Loincloth
   [14274] = true, -- Gaea's Leggings
 
   -- Feet

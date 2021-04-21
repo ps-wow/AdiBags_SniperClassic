@@ -10,6 +10,6 @@ AddonTable.cloth = {
     [4306] = true, -- Silk Cloth
     [4338] = true, -- Mageweave Cloth
     [14047] = true, -- Runecloth
-
+    [14256] = true, -- Felcloth
   }
 }

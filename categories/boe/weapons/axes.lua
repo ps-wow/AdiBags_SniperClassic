@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.boe.axes = {
   -- MH Axes
   [790] = true, -- Forester's Axe
+  [2073] = true, -- Dwarven Hatchet
   [15230] = true, -- Ridge Cleaver
 
   -- 1H Axes
@@ -13,4 +14,5 @@ AddonTable.boe.axes = {
   [1639] = true, -- Grinning Axe
   [2175] = true, -- Shadowhide Battle Axe
   [3195] = true, -- Barbaric Battle Axe
+  [4562] = true, -- Severing Axe
 }

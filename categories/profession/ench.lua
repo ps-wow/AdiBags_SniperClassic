@@ -9,6 +9,7 @@ AddonTable.ench = {
     [10940] = true, -- Strange Dust
     [10978] = true, -- Small Glimmering Shard
     [10998] = true, -- Lesser Astral Essence
+    [11082] = true, -- Greater Astral Essence
     [11134] = true, -- Lesser Mystic Essence
     [11137] = true, -- Vision Dust
     [11139] = true, -- Large Glowing Shard
