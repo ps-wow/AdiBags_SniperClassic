@@ -21,6 +21,7 @@ AddonTable.boe.cloth = {
   [6585] = true, -- Scouting Cloak
   [9779] = true, -- Bandit Cloak
   [9822] = true, -- Durable Cape
+  [14331] = true, -- Eternal Cloak
   [14673] = true, -- Pridelord Cape
 
   -- Belts
@@ -56,6 +57,7 @@ AddonTable.boe.cloth = {
 
   -- Shoulders
   [4661] = true, -- Bright Mantle
+  [7057] = true, -- Green Silken Shoulders [Tailoring]
   [8250] = true, -- Imperial Red Mantle
   [10027] = true, -- Black Mageweave Shoulders [Tailoring]
   [14278] = true, -- Opulent Mantle

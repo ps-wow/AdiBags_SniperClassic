@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 AddonTable.trade = {
   ['name'] = 'T: Misc',
   ['items'] = {
+    [5635] = true, -- Sharp Claw
     -- Spider Silk
     [10285] = true, -- Shadow Silk
     [14227] = true, -- Ironweb Spider Silk

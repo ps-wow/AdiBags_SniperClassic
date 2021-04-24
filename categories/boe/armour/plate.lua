@@ -5,6 +5,7 @@ AddonTable.boe.plate = {
   [10205] = true, -- Overlord's Gauntlets
 
   -- Belt
+  [13077] = true, -- Girdle of Uther
   [14918] = true, -- Jade Belt
   
   -- Shoulders

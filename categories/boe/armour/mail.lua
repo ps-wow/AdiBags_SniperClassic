@@ -24,13 +24,16 @@ AddonTable.boe.mail = {
   -- Legs
   [6546] = true, -- Soldier's Leggings
   [9815] = true, -- Fortified Leggings
+  [10199] = true, -- Crusader's Leggings
   [15477] = true, -- Charger's Pants
 
   -- Wrists
   [6550] = true, -- Soldier's Wristguards
   [9811] = true, -- Fortified Bracers
+  [15535] = true, -- Wicked Chain Bracers
 
   -- Feet
+  [3302] = true, -- Brackwater Boots
   [15599] = true, -- Ancient Greaves
 
   -- Shoulders

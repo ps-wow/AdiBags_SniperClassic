@@ -38,6 +38,7 @@ AddonTable.boe.leather = {
   [9756] = true, -- Gypsy Trousers
   [15009] = true, -- Primal Leggings
   [15017] = true, -- Lupine Leggings
+  [15139] = true, -- Cutthroat's Pants
   [15303] = true, -- Grizzly Pants
   [15385] = true, -- Rageclaw Leggings
 
