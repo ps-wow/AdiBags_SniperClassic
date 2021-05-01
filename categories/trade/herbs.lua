@@ -12,6 +12,10 @@ AddonTable.herbs = {
     [2450] = true, -- Briarthorn
     [2452] = true, -- Swiftthistle
     [2453] = true, -- Bruiseweed
+    [3356] = true, -- Kingsblood
+    [3357] = true, -- Liferoot
+    [3369] = true, -- Grave Moss
+    [3818] = true, -- Fadeleaf
     [3821] = true, -- Goldthorn
   }
 }

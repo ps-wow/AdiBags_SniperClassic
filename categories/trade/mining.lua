@@ -35,6 +35,7 @@ AddonTable.gems = {
     [818] = true, -- Tigerseye
     [1206] = true, -- Moss Agate
     [1210] = true, -- Shadowgem
+    [1529] = true, -- Jade
     [1705] = true, -- Lesser Moonstone
     [3864] = true, -- Citrine
     [5498] = true, -- Small Lustrous Pearl
