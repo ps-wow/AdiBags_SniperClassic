@@ -12,10 +12,14 @@ AddonTable.herbs = {
     [2450] = true, -- Briarthorn
     [2452] = true, -- Swiftthistle
     [2453] = true, -- Bruiseweed
+    [3355] = true, -- Wild Steelbloom
     [3356] = true, -- Kingsblood
     [3357] = true, -- Liferoot
+    [3358] = true, -- Khadgar's Whisker
     [3369] = true, -- Grave Moss
     [3818] = true, -- Fadeleaf
     [3821] = true, -- Goldthorn
+    [4625] = true, -- Firebloom
+    [8831] = true, -- Purple Lotus
   }
 }
