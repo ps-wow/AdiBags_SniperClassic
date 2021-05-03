@@ -38,6 +38,7 @@ function Core:DefaultFilter(slotData)
     ['lbrs'] = 'Quest: LBRS',
     ['ubrs'] = 'Quest: UBRS',
     ['mara'] = 'Quest: Mara',
+    ['stv'] = 'Quest: STV',
     -- Class
     ['druid'] = 'Druid',
     ['mage'] = 'Mage',

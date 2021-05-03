@@ -48,6 +48,7 @@
     <Script file="categories\quests\lbrs.lua"/>
     <Script file="categories\quests\mara.lua"/>
     <Script file="categories\quests\stockades.lua"/>
+    <Script file="categories\quests\stv.lua"/>
     <Script file="categories\quests\ubrs.lua"/>
 
     <!-- Quests: Raids -->
