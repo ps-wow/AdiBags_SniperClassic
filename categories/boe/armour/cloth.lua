@@ -10,6 +10,7 @@ AddonTable.boe.cloth = {
   -- Gloves
   [2984] = true, -- Seer's Gloves
   [6565] = true, -- Shimmering Gloves
+  [9771] = true, -- Greenweave Gloves
   [10003] = true, -- Black Mageweave Gloves [Tailoring]
 
   -- Cloaks
@@ -17,6 +18,7 @@ AddonTable.boe.cloth = {
   [4695] = true, -- Burnished Cloak
   [4715] = true, -- Emblazoned Cloak
   [6378] = true, -- Seer's Cape
+  [6564] = true, -- Shimmering Cloak
   [6575] = true, -- Defender Cloak
   [6585] = true, -- Scouting Cloak
   [9779] = true, -- Bandit Cloak
@@ -36,6 +38,7 @@ AddonTable.boe.cloth = {
   [6531] = true, -- Barbaric Cloth Robe
   [6538] = true, -- Willow Robe
   [6569] = true, -- Shimmering Robe
+  [9749] = true, -- Simple Blouse
   [14091] = true, -- Beaded Robe
 
   -- Wrist
@@ -52,6 +55,7 @@ AddonTable.boe.cloth = {
 
   -- Feet
   [3065] = true, -- Bright Boots
+  [6562] = true, -- Shimmering Boots
   [10058] = true, -- Duskwoven Sandals
   [14174] = true, -- Buccaneer's Boots
 

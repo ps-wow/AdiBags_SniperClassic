@@ -8,6 +8,7 @@ AddonTable.boe.mail = {
   [2899] = true, -- Burnished Tunic
   [4074] = true, -- Mail Combat Armor
   [6336] = true, -- Infantry Tunic
+  [6545] = true, -- Soldier's Armor
   [9818] = true, -- Fortified Chain
   [9866] = true, -- Renegade Chestguard
   [15487] = true, -- War Torn Tunic

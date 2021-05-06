@@ -9,6 +9,7 @@ AddonTable.boe.leather = {
   [6600] = true, -- Dervish Belt
   [6379] = true, -- Inscribed Leather Belt
   [6382] = true, -- Forest Leather Belt
+  [9775] = true, -- Bandit Cinch
   [10403] = true, -- Blackened Defias Belt
 
   -- Chest
@@ -18,11 +19,13 @@ AddonTable.boe.leather = {
 
   -- Gloves
   [1314] = true, -- Ghoul Fingers
+  [1944] = true, -- Metalworking Gloves
   [1945] = true, -- Woodworking Gloves
   [2988] = true, -- Inscribed Leather Gloves
   [6586] = true, -- Scouting Gloves
 
   -- Bracers
+  [3205] = true, -- Inscribed Leather Bracers
   [4794] = true, -- Wolf Bracers
   [6556] = true, -- Bard's Bracers
   [7378] = true, -- Dusky Bracers
@@ -36,6 +39,7 @@ AddonTable.boe.leather = {
   [8193] = true, -- Nightscape Pants
   [8262] = true, -- Serpentskin Leggings
   [9756] = true, -- Gypsy Trousers
+  [10400] = true, -- Blackened Defias Leggings
   [15009] = true, -- Primal Leggings
   [15017] = true, -- Lupine Leggings
   [15139] = true, -- Cutthroat's Pants
