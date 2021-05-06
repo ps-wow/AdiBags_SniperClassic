@@ -12,6 +12,7 @@ AddonTable.boe.cloth = {
   [6565] = true, -- Shimmering Gloves
   [9771] = true, -- Greenweave Gloves
   [10003] = true, -- Black Mageweave Gloves [Tailoring]
+  [13863] = true, -- Runecloth Gloves [Tailoring]
 
   -- Cloaks
   [1930] = true, -- Stonemason Cloak
