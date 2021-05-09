@@ -3,13 +3,16 @@ local AddonName, AddonTable = ...
 AddonTable.boe.mail = {
   -- Helms
   [12549] = true, -- Braincage
+  [14765] = true, -- Enduring Circlet
 
   -- Chest
   [2899] = true, -- Burnished Tunic
   [4074] = true, -- Mail Combat Armor
   [6336] = true, -- Infantry Tunic
   [6545] = true, -- Soldier's Armor
+  [7454] = true, -- Knight's Breastplate
   [9818] = true, -- Fortified Chain
+  [9836] = true, -- Banded Armor
   [9866] = true, -- Renegade Chestguard
   [15487] = true, -- War Torn Tunic
 
@@ -17,6 +20,7 @@ AddonTable.boe.mail = {
   [6548] = true, -- Soldier's Girdle
   [9788] = true, -- Raider's Belt
   [10081] = true, -- Lord's Girdle
+  [15598] = true, -- Steadfast Girdle
 
   -- Gloves
   [6547] = true, -- Soldier's Gauntlets

@@ -50,6 +50,7 @@ AddonTable.boe.leather = {
   [2987] = true, -- Inscribed Leather Boots
 
   -- Shoulders
+  [5964] = true, -- Barbaric Shoulders [Leatherworking]
   [7415] = true, -- Dervish Spaulders
   [9923] = true, -- Tracker's Shoulderpads
 }

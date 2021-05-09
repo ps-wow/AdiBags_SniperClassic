@@ -49,6 +49,7 @@ AddonTable.boe.cloth = {
   -- Pants
   [1929] = true, -- Silk-threaded Trousers
   [2982] = true, -- Seer's Pants
+  [4044] = true, -- Aurora Pants
   [6540] = true, -- Willow Pants
   [9797] = true, -- Ivycloth Pants
   [14119] = true, -- Aboriginal Loincloth
@@ -57,6 +58,7 @@ AddonTable.boe.cloth = {
   -- Feet
   [3065] = true, -- Bright Boots
   [6562] = true, -- Shimmering Boots
+  [9820] = true, -- Durable Boots
   [10058] = true, -- Duskwoven Sandals
   [14174] = true, -- Buccaneer's Boots
 
