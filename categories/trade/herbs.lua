@@ -23,6 +23,9 @@ AddonTable.herbs = {
     [8153] = true, -- Wildvine
     [8831] = true, -- Purple Lotus
     [8838] = true, -- Sungrass
+    [8846] = true, -- Gromsblood
     [13464] = true, -- Golden Sansam
+    [13465] = true, -- Mountain Silversage
+    [13466] = true, -- Plaguebloom
   }
 }
