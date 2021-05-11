@@ -20,6 +20,7 @@ AddonTable.herbs = {
     [3818] = true, -- Fadeleaf
     [3821] = true, -- Goldthorn
     [4625] = true, -- Firebloom
+    [8153] = true, -- Wildvine
     [8831] = true, -- Purple Lotus
     [8838] = true, -- Sungrass
     [13464] = true, -- Golden Sansam
