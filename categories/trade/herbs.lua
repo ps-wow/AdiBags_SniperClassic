@@ -22,5 +22,6 @@ AddonTable.herbs = {
     [4625] = true, -- Firebloom
     [8831] = true, -- Purple Lotus
     [8838] = true, -- Sungrass
+    [13464] = true, -- Golden Sansam
   }
 }
