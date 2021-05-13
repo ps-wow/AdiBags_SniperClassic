@@ -14,6 +14,7 @@ AddonTable.boe.mail = {
   [9818] = true, -- Fortified Chain
   [9836] = true, -- Banded Armor
   [9866] = true, -- Renegade Chestguard
+  [9897] = true, -- Jazeraint Chestguard
   [15487] = true, -- War Torn Tunic
 
   -- Belt
@@ -27,6 +28,7 @@ AddonTable.boe.mail = {
   [1448] = true, -- Blackrock Gauntlets
 
   -- Legs
+  [3282] = true, -- Battle Chain Pants
   [6546] = true, -- Soldier's Leggings
   [9815] = true, -- Fortified Leggings
   [10199] = true, -- Crusader's Leggings

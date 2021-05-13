@@ -52,6 +52,7 @@ AddonTable.boe.cloth = {
   [4044] = true, -- Aurora Pants
   [6540] = true, -- Willow Pants
   [9797] = true, -- Ivycloth Pants
+  [14090] = true, -- Beaded Britches
   [14119] = true, -- Aboriginal Loincloth
   [14274] = true, -- Gaea's Leggings
 
