@@ -28,6 +28,7 @@ AddonTable.boe.leather = {
   [3205] = true, -- Inscribed Leather Bracers
   [4794] = true, -- Wolf Bracers
   [6556] = true, -- Bard's Bracers
+  [6583] = true, -- Scouting Bracers
   [7378] = true, -- Dusky Bracers
   [9777] = true, -- Bandit Bracers
 

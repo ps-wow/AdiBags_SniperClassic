@@ -24,6 +24,7 @@ AddonTable.boe.cloth = {
   [6585] = true, -- Scouting Cloak
   [9779] = true, -- Bandit Cloak
   [9822] = true, -- Durable Cape
+  [14167] = true, -- Buccaneer's Cape
   [14331] = true, -- Eternal Cloak
   [14673] = true, -- Pridelord Cape
 
@@ -45,6 +46,7 @@ AddonTable.boe.cloth = {
   -- Wrist
   [9793] = true, -- Ivycloth Bracelets
   [14122] = true, -- Ritual Bands
+  [14166] = true, -- Buccaneer's Bracers
 
   -- Pants
   [1929] = true, -- Silk-threaded Trousers

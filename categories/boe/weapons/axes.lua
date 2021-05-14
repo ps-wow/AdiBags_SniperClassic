@@ -16,4 +16,5 @@ AddonTable.boe.axes = {
   [2175] = true, -- Shadowhide Battle Axe
   [3195] = true, -- Barbaric Battle Axe
   [4562] = true, -- Severing Axe
+  [12975] = true, -- Prospector Axe
 }
