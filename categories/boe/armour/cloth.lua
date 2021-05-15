@@ -13,6 +13,7 @@ AddonTable.boe.cloth = {
   [9771] = true, -- Greenweave Gloves
   [10003] = true, -- Black Mageweave Gloves [Tailoring]
   [13863] = true, -- Runecloth Gloves [Tailoring]
+  [14168] = true, -- Buccaneer's Gloves
 
   -- Cloaks
   [1930] = true, -- Stonemason Cloak
@@ -40,6 +41,7 @@ AddonTable.boe.cloth = {
   [2981] = true, -- Seer's Robe
   [6241] = true, -- White Linen Robe [Tailoring]
   [6531] = true, -- Barbaric Cloth Robe
+  [6536] = true, -- Willow Vest
   [6538] = true, -- Willow Robe
   [6569] = true, -- Shimmering Robe
   [9749] = true, -- Simple Blouse

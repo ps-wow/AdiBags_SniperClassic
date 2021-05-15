@@ -19,6 +19,7 @@ AddonTable.boe.mail = {
   [15487] = true, -- War Torn Tunic
 
   -- Belt
+  [4697] = true, -- Burnished Girdle
   [6548] = true, -- Soldier's Girdle
   [9788] = true, -- Raider's Belt
   [10081] = true, -- Lord's Girdle
@@ -29,6 +30,7 @@ AddonTable.boe.mail = {
   [1448] = true, -- Blackrock Gauntlets
 
   -- Legs
+  [2990] = true, -- Burnished Leggings
   [3282] = true, -- Battle Chain Pants
   [6546] = true, -- Soldier's Leggings
   [9815] = true, -- Fortified Leggings
@@ -42,6 +44,7 @@ AddonTable.boe.mail = {
 
   -- Feet
   [3302] = true, -- Brackwater Boots
+  [9784] = true, -- Raider's Boots
   [15599] = true, -- Ancient Greaves
 
   -- Shoulders
