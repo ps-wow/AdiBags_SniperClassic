@@ -23,6 +23,7 @@ AddonTable.boe.leather = {
   [1945] = true, -- Woodworking Gloves
   [2988] = true, -- Inscribed Leather Gloves
   [6586] = true, -- Scouting Gloves
+  [9780] = true, -- Bandit Gloves
 
   -- Bracers
   [3205] = true, -- Inscribed Leather Bracers
@@ -49,6 +50,7 @@ AddonTable.boe.leather = {
 
   -- Feet
   [2987] = true, -- Inscribed Leather Boots
+  [10402] = true, -- Blackened Defias Boots
 
   -- Shoulders
   [5964] = true, -- Barbaric Shoulders [Leatherworking]

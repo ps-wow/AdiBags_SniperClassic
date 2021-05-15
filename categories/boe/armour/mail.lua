@@ -7,6 +7,7 @@ AddonTable.boe.mail = {
 
   -- Chest
   [2899] = true, -- Burnished Tunic
+  [2977] = true, -- Veteran Armor
   [4074] = true, -- Mail Combat Armor
   [6336] = true, -- Infantry Tunic
   [6545] = true, -- Soldier's Armor

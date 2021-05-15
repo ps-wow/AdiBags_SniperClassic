@@ -7,6 +7,7 @@ AddonTable.boe.maces = {
   -- 1H
   [1394] = true, -- Driftwood Club
   [2075] = true, -- Priest's Mace
+  [2079] = true, -- Sergeant's Warhammer
 
   -- 2H
   [4564] = true, -- Spiked Club

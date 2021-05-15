@@ -63,7 +63,9 @@ AddonTable.boe.cloth = {
   [14274] = true, -- Gaea's Leggings
 
   -- Feet
+  [2983] = true, -- Seer's Boots
   [3065] = true, -- Bright Boots
+  [4660] = true, -- Walking Boots
   [6562] = true, -- Shimmering Boots
   [9820] = true, -- Durable Boots
   [10058] = true, -- Duskwoven Sandals
