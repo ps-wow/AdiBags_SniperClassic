@@ -23,6 +23,7 @@ AddonTable.boe.cloth = {
   [6575] = true, -- Defender Cloak
   [6585] = true, -- Scouting Cloak
   [9779] = true, -- Bandit Cloak
+  [9786] = true, -- Raider's Cloak
   [9822] = true, -- Durable Cape
   [14167] = true, -- Buccaneer's Cape
   [14331] = true, -- Eternal Cloak
@@ -37,6 +38,7 @@ AddonTable.boe.cloth = {
   -- Chests
   [2969] = true, -- Spellbinder Vest
   [2981] = true, -- Seer's Robe
+  [6241] = true, -- White Linen Robe [Tailoring]
   [6531] = true, -- Barbaric Cloth Robe
   [6538] = true, -- Willow Robe
   [6569] = true, -- Shimmering Robe

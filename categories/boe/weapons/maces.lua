@@ -9,6 +9,7 @@ AddonTable.boe.maces = {
   [2075] = true, -- Priest's Mace
 
   -- 2H
+  [4564] = true, -- Spiked Club
   [4570] = true, -- Birchwood Maul
   [15262] = true, -- Greater Maul
 }
