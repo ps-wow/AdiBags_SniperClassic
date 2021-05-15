@@ -30,6 +30,7 @@ AddonTable.boe.mail = {
   [1448] = true, -- Blackrock Gauntlets
 
   -- Legs
+  [1943] = true, -- Goblin Mail Leggings
   [2990] = true, -- Burnished Leggings
   [3282] = true, -- Battle Chain Pants
   [6546] = true, -- Soldier's Leggings
