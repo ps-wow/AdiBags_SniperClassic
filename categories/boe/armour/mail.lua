@@ -22,6 +22,7 @@ AddonTable.boe.mail = {
   [4697] = true, -- Burnished Girdle
   [6548] = true, -- Soldier's Girdle
   [9788] = true, -- Raider's Belt
+  [9814] = true, -- Fortified Belt
   [10081] = true, -- Lord's Girdle
   [15598] = true, -- Steadfast Girdle
 

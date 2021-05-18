@@ -13,6 +13,7 @@ AddonTable.boe.leather = {
   [10403] = true, -- Blackened Defias Belt
 
   -- Chest
+  [2961] = true, -- Burnt Leather Vest
   [2985] = true, -- Inscribed Leather Breastplate
   [6552] = true, -- Bard's Tunic
   [8175] = true, -- Nightscape Tunic
@@ -37,6 +38,7 @@ AddonTable.boe.leather = {
   [2974] = true, -- Hunting Pants
   [2986] = true, -- Inscribed Leather Pants
   [5961] = true, -- Dark Leather Pants [Leatherworking]
+  [6269] = true, -- Pioneer Trousers
   [6553] = true, -- Bard's Trousers
   [8193] = true, -- Nightscape Pants
   [8262] = true, -- Serpentskin Leggings
@@ -50,9 +52,11 @@ AddonTable.boe.leather = {
 
   -- Feet
   [2987] = true, -- Inscribed Leather Boots
+  [3057] = true, -- Forest Leather Boots
   [10402] = true, -- Blackened Defias Boots
 
   -- Shoulders
+  [4709] = true, -- Forest Leather Mantle
   [5964] = true, -- Barbaric Shoulders [Leatherworking]
   [7415] = true, -- Dervish Spaulders
   [9923] = true, -- Tracker's Shoulderpads

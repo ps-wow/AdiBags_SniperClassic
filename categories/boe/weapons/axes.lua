@@ -5,6 +5,7 @@ AddonTable.boe.axes = {
   [790] = true, -- Forester's Axe
   [826] = true, -- Brutish Riverpaw Axe
   [2073] = true, -- Dwarven Hatchet
+  [4561] = true, -- Scalping Tomahawk
   [15230] = true, -- Ridge Cleaver
 
   -- 1H Axes
@@ -17,4 +18,5 @@ AddonTable.boe.axes = {
   [3195] = true, -- Barbaric Battle Axe
   [4562] = true, -- Severing Axe
   [12975] = true, -- Prospector Axe
+  [15269] = true, -- Massive Battle Axe
 }
