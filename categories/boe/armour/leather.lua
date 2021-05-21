@@ -33,6 +33,7 @@ AddonTable.boe.leather = {
   [6583] = true, -- Scouting Bracers
   [7378] = true, -- Dusky Bracers
   [9777] = true, -- Bandit Bracers
+  [15084] = true, -- Wicked Leather Bracers
 
   -- Pants
   [2974] = true, -- Hunting Pants

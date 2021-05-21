@@ -40,6 +40,7 @@ AddonTable.boe.mail = {
   [15477] = true, -- Charger's Pants
 
   -- Wrists
+  [3212] = true, -- Lambent Scale Bracers
   [6550] = true, -- Soldier's Wristguards
   [9811] = true, -- Fortified Bracers
   [15535] = true, -- Wicked Chain Bracers

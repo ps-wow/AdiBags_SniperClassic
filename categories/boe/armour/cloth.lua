@@ -56,6 +56,7 @@ AddonTable.boe.cloth = {
   [1929] = true, -- Silk-threaded Trousers
   [2970] = true, -- Spellbinder Pants
   [2982] = true, -- Seer's Pants
+  [3291] = true, -- Ancestral Woollies
   [4044] = true, -- Aurora Pants
   [6540] = true, -- Willow Pants
   [9747] = true, -- Simple Britches
