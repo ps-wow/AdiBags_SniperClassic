@@ -11,6 +11,7 @@ AddonTable.boe.cloth = {
   [2984] = true, -- Seer's Gloves
   [6565] = true, -- Shimmering Gloves
   [9771] = true, -- Greenweave Gloves
+  [9795] = true, -- Ivycloth Gloves
   [10003] = true, -- Black Mageweave Gloves [Tailoring]
   [13863] = true, -- Runecloth Gloves [Tailoring]
   [14168] = true, -- Buccaneer's Gloves
@@ -25,13 +26,16 @@ AddonTable.boe.cloth = {
   [6585] = true, -- Scouting Cloak
   [9779] = true, -- Bandit Cloak
   [9786] = true, -- Raider's Cloak
+  [9805] = true, -- Superior Cloak
   [9822] = true, -- Durable Cape
+  [10159] = true, -- Mercurial Cloak
   [14167] = true, -- Buccaneer's Cape
   [14331] = true, -- Eternal Cloak
   [14673] = true, -- Pridelord Cape
 
   -- Belts
   [4699] = true, -- Seer's Belt
+  [4708] = true, -- Bright Belt
   [6539] = true, -- Willow Belt
   [9799] = true, -- Ivycloth Sash
   [13856] = true, -- Runecloth Belt
@@ -77,6 +81,8 @@ AddonTable.boe.cloth = {
   -- Shoulders
   [4661] = true, -- Bright Mantle
   [7057] = true, -- Green Silken Shoulders [Tailoring]
+  [7523] = true, -- Gossamer Shoulderpads
+  [8111] = true, -- Hibernal Mantle
   [8250] = true, -- Imperial Red Mantle
   [10027] = true, -- Black Mageweave Shoulders [Tailoring]
   [14278] = true, -- Opulent Mantle

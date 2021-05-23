@@ -6,6 +6,7 @@ AddonTable.boe.plate = {
 
   -- Belt
   [13077] = true, -- Girdle of Uther
+  [14847] = true, -- Sunscale Belt
   [14918] = true, -- Jade Belt
   
   -- Shoulders

@@ -4,6 +4,7 @@ AddonTable.boe.leather = {
   -- Helm
   [8176] = true, -- Nightscape Headband
   [14667] = true, -- Keeper's Wrath
+  [15086] = true, -- Wicked Leather Headband [Leatherworking]
 
   -- Belts
   [6600] = true, -- Dervish Belt
@@ -17,6 +18,7 @@ AddonTable.boe.leather = {
   [2985] = true, -- Inscribed Leather Breastplate
   [6552] = true, -- Bard's Tunic
   [8175] = true, -- Nightscape Tunic
+  [9782] = true, -- Bandit Jerkin
 
   -- Gloves
   [1314] = true, -- Ghoul Fingers
@@ -27,6 +29,7 @@ AddonTable.boe.leather = {
   [9780] = true, -- Bandit Gloves
 
   -- Bracers
+  [3202] = true, -- Forest Leather Bracers
   [3205] = true, -- Inscribed Leather Bracers
   [4794] = true, -- Wolf Bracers
   [6556] = true, -- Bard's Bracers
@@ -41,6 +44,7 @@ AddonTable.boe.leather = {
   [5961] = true, -- Dark Leather Pants [Leatherworking]
   [6269] = true, -- Pioneer Trousers
   [6553] = true, -- Bard's Trousers
+  [6587] = true, -- Scouting Trousers
   [8193] = true, -- Nightscape Pants
   [8262] = true, -- Serpentskin Leggings
   [9756] = true, -- Gypsy Trousers
@@ -54,7 +58,9 @@ AddonTable.boe.leather = {
   -- Feet
   [2987] = true, -- Inscribed Leather Boots
   [3057] = true, -- Forest Leather Boots
+  [9802] = true, -- Superior Boots
   [10402] = true, -- Blackened Defias Boots
+  [15071] = true, -- Frostsaber Boots [Leatherworking]
 
   -- Shoulders
   [4709] = true, -- Forest Leather Mantle

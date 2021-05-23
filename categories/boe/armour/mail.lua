@@ -27,14 +27,16 @@ AddonTable.boe.mail = {
   [15598] = true, -- Steadfast Girdle
 
   -- Gloves
-  [6547] = true, -- Soldier's Gauntlets
   [1448] = true, -- Blackrock Gauntlets
+  [6547] = true, -- Soldier's Gauntlets
+  [10232] = true, -- Engraved Gauntlets
 
   -- Legs
   [1943] = true, -- Goblin Mail Leggings
   [2990] = true, -- Burnished Leggings
   [3282] = true, -- Battle Chain Pants
   [6546] = true, -- Soldier's Leggings
+  [6578] = true, -- Defender Leggings
   [9815] = true, -- Fortified Leggings
   [10199] = true, -- Crusader's Leggings
   [15477] = true, -- Charger's Pants
