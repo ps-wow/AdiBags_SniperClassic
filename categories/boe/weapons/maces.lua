@@ -2,7 +2,9 @@ local AddonName, AddonTable = ...
 
 AddonTable.boe.maces = {
   -- MH
+  [789] = true, -- Stout Battlehammer
   [1296] = true, -- Blackrock Mace
+  [15223] = true, -- Jagged Star
 
   -- 1H
   [1394] = true, -- Driftwood Club

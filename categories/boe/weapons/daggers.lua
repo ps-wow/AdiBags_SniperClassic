@@ -7,4 +7,5 @@ AddonTable.boe.daggers = {
   [2819] = true, -- Cross Dagger
   [3184] = true, -- Hook Dagger
   [3187] = true, -- Sacrificial Kris
+  [15241] = true, -- Battle Knife
 }

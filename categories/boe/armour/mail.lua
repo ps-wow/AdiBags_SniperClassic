@@ -11,6 +11,7 @@ AddonTable.boe.mail = {
   [4074] = true, -- Mail Combat Armor
   [6336] = true, -- Infantry Tunic
   [6545] = true, -- Soldier's Armor
+  [6580] = true, -- Defender Tunic
   [7454] = true, -- Knight's Breastplate
   [9818] = true, -- Fortified Chain
   [9836] = true, -- Banded Armor
@@ -20,6 +21,7 @@ AddonTable.boe.mail = {
 
   -- Belt
   [4697] = true, -- Burnished Girdle
+  [4707] = true, -- Lambent Scale Girdle
   [6548] = true, -- Soldier's Girdle
   [9788] = true, -- Raider's Belt
   [9814] = true, -- Fortified Belt

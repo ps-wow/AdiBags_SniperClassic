@@ -16,9 +16,11 @@ AddonTable.boe.leather = {
   -- Chest
   [2961] = true, -- Burnt Leather Vest
   [2985] = true, -- Inscribed Leather Breastplate
+  [3055] = true, -- Forest Leather Chestpiece
   [6552] = true, -- Bard's Tunic
   [8175] = true, -- Nightscape Tunic
   [9782] = true, -- Bandit Jerkin
+  [12988] = true, -- Starsight Tunic
 
   -- Gloves
   [1314] = true, -- Ghoul Fingers
@@ -48,10 +50,12 @@ AddonTable.boe.leather = {
   [8193] = true, -- Nightscape Pants
   [8262] = true, -- Serpentskin Leggings
   [9756] = true, -- Gypsy Trousers
+  [9781] = true, -- Bandit Pants
   [10400] = true, -- Blackened Defias Leggings
   [15009] = true, -- Primal Leggings
   [15017] = true, -- Lupine Leggings
   [15139] = true, -- Cutthroat's Pants
+  [15151] = true, -- Ghostwalker Legguards
   [15303] = true, -- Grizzly Pants
   [15385] = true, -- Rageclaw Leggings
 

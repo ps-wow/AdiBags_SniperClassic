@@ -19,6 +19,7 @@ AddonTable.boe.cloth = {
   -- Cloaks
   [1930] = true, -- Stonemason Cloak
   [4695] = true, -- Burnished Cloak
+  [4706] = true, -- Lambent Scale Cloak
   [4715] = true, -- Emblazoned Cloak
   [6378] = true, -- Seer's Cape
   [6564] = true, -- Shimmering Cloak
@@ -37,6 +38,7 @@ AddonTable.boe.cloth = {
   [4699] = true, -- Seer's Belt
   [4708] = true, -- Bright Belt
   [6539] = true, -- Willow Belt
+  [6570] = true, -- Shimmering Sash
   [9799] = true, -- Ivycloth Sash
   [13856] = true, -- Runecloth Belt
 
@@ -48,6 +50,7 @@ AddonTable.boe.cloth = {
   [6536] = true, -- Willow Vest
   [6538] = true, -- Willow Robe
   [6569] = true, -- Shimmering Robe
+  [6608] = true, -- Bright Armor
   [9749] = true, -- Simple Blouse
   [14091] = true, -- Beaded Robe
 
@@ -74,6 +77,7 @@ AddonTable.boe.cloth = {
   [3065] = true, -- Bright Boots
   [4660] = true, -- Walking Boots
   [6562] = true, -- Shimmering Boots
+  [9792] = true, -- Ivycloth Boots
   [9820] = true, -- Durable Boots
   [10058] = true, -- Duskwoven Sandals
   [14174] = true, -- Buccaneer's Boots
