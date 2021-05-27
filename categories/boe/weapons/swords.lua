@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.boe.swords = {
   [3196] = true, -- Edged Bastard Sword
   -- MH Swords
+  [3740] = true, -- Decapitating Sword
   [15212] = true, -- Fighter Broadsword
 
   -- 1H Swords
