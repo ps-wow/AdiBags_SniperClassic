@@ -7,6 +7,7 @@ AddonTable.boe.axes = {
   [2073] = true, -- Dwarven Hatchet
   [4561] = true, -- Scalping Tomahawk
   [15230] = true, -- Ridge Cleaver
+  [15234] = true, -- Greater Scythe
 
   -- 1H Axes
   [4568] = true, -- Grunt Axe

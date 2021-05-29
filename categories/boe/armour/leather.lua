@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.boe.leather = {
   -- Helm
   [8176] = true, -- Nightscape Headband
+  [9859] = true, -- Archer's Cap
   [14667] = true, -- Keeper's Wrath
   [15086] = true, -- Wicked Leather Headband [Leatherworking]
 
@@ -18,6 +19,7 @@ AddonTable.boe.leather = {
   [2985] = true, -- Inscribed Leather Breastplate
   [3055] = true, -- Forest Leather Chestpiece
   [6552] = true, -- Bard's Tunic
+  [6584] = true, -- Scouting Tunic
   [8175] = true, -- Nightscape Tunic
   [9782] = true, -- Bandit Jerkin
   [12988] = true, -- Starsight Tunic
@@ -29,6 +31,7 @@ AddonTable.boe.leather = {
   [2988] = true, -- Inscribed Leather Gloves
   [6586] = true, -- Scouting Gloves
   [9780] = true, -- Bandit Gloves
+  [15365] = true, -- Trickster's Handwraps
 
   -- Bracers
   [3202] = true, -- Forest Leather Bracers

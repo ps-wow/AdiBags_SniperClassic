@@ -26,6 +26,7 @@ AddonTable.boe.mail = {
   [9788] = true, -- Raider's Belt
   [9814] = true, -- Fortified Belt
   [10081] = true, -- Lord's Girdle
+  [15492] = true, -- Bloodspattered Sash
   [15598] = true, -- Steadfast Girdle
 
   -- Gloves
@@ -46,14 +47,18 @@ AddonTable.boe.mail = {
   -- Wrists
   [3212] = true, -- Lambent Scale Bracers
   [6550] = true, -- Soldier's Wristguards
+  [6574] = true, -- Defender Bracers
   [9811] = true, -- Fortified Bracers
   [15535] = true, -- Wicked Chain Bracers
 
   -- Feet
   [3302] = true, -- Brackwater Boots
+  [6573] = true, -- Defender Boots
   [9784] = true, -- Raider's Boots
+  [9810] = true, -- Fortified Boots
   [15599] = true, -- Ancient Greaves
 
   -- Shoulders
   [8133] = true, -- Myrmidon's Pauldrons
+  [9817] = true, -- Fortified Spaulders
 }

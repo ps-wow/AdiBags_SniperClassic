@@ -21,13 +21,17 @@ AddonTable.boe.cloth = {
   [4695] = true, -- Burnished Cloak
   [4706] = true, -- Lambent Scale Cloak
   [4715] = true, -- Emblazoned Cloak
+  [4726] = true, -- Chief Brigadier Cloak
   [6378] = true, -- Seer's Cape
+  [6381] = true, -- Bright Cloak
   [6564] = true, -- Shimmering Cloak
   [6575] = true, -- Defender Cloak
   [6585] = true, -- Scouting Cloak
+  [6604] = true, -- Dervish Cape
   [9779] = true, -- Bandit Cloak
   [9786] = true, -- Raider's Cloak
   [9805] = true, -- Superior Cloak
+  [9812] = true, -- Fortified Cloak
   [9822] = true, -- Durable Cape
   [10159] = true, -- Mercurial Cloak
   [14167] = true, -- Buccaneer's Cape
@@ -53,8 +57,10 @@ AddonTable.boe.cloth = {
   [6608] = true, -- Bright Armor
   [9749] = true, -- Simple Blouse
   [14091] = true, -- Beaded Robe
+  [14175] = true, -- Buccaneer's Vest
 
   -- Wrist
+  [3647] = true, -- Bright Bracers
   [9793] = true, -- Ivycloth Bracelets
   [14122] = true, -- Ritual Bands
   [14166] = true, -- Buccaneer's Bracers
@@ -66,10 +72,12 @@ AddonTable.boe.cloth = {
   [3291] = true, -- Ancestral Woollies
   [4044] = true, -- Aurora Pants
   [6540] = true, -- Willow Pants
+  [6568] = true, -- Shimmering Trousers
   [9747] = true, -- Simple Britches
   [9797] = true, -- Ivycloth Pants
   [14090] = true, -- Beaded Britches
   [14119] = true, -- Aboriginal Loincloth
+  [14171] = true, -- Buccaneer's Pants
   [14274] = true, -- Gaea's Leggings
 
   -- Feet
@@ -89,5 +97,6 @@ AddonTable.boe.cloth = {
   [8111] = true, -- Hibernal Mantle
   [8250] = true, -- Imperial Red Mantle
   [10027] = true, -- Black Mageweave Shoulders [Tailoring]
+  [14232] = true, -- Embersilk Mantle
   [14278] = true, -- Opulent Mantle
 }
