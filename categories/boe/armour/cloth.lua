@@ -20,6 +20,7 @@ AddonTable.boe.cloth = {
   [1930] = true, -- Stonemason Cloak
   [4695] = true, -- Burnished Cloak
   [4706] = true, -- Lambent Scale Cloak
+  [4713] = true, -- Silver-thread Cloak
   [4715] = true, -- Emblazoned Cloak
   [4726] = true, -- Chief Brigadier Cloak
   [6378] = true, -- Seer's Cape
