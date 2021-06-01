@@ -31,9 +31,9 @@ jobs:
       - name: Package Classic
         uses: BigWigsMods/packager@master
         with:
-          args: release.sh
+          args: release.sh -a kRNLO4Go -m pkgmeta.yml
 
       - name: Package BC Classic
         uses: BigWigsMods/packager@master
         with:
-          args: release.sh -g bcc -a kRNLO4Go
+          args: release.sh -g bcc -a kRNLO4Go -m pkgmeta.yml
