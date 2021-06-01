@@ -11,6 +11,7 @@ on:
 
 env:
   GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
+  WAGO_TOKEN: ${{ secrets.WAGO_API_KEY }}
 
 jobs:
   build:
@@ -35,4 +36,4 @@ jobs:
       - name: Package BC Classic
         uses: BigWigsMods/packager@master
         with:
-          args: release.sh -g bcc
+          args: release.sh -g bcc -a kRNLO4Go
