@@ -23,10 +23,10 @@ jobs:
         with:
           fetch-depth: 100
 
-      - name: Run luacheck
-        uses: BigWigsMods/actions/luacheck@master
+      - name: LUA Lint
+        uses: davidcraig/action-wow-lint@1.0.0
         with:
-          args: -q
+            path-to-files: 'main.lua'
 
       - name: Package Classic
         uses: BigWigsMods/packager@master
