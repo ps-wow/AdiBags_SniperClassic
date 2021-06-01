@@ -1,7 +1,7 @@
 ## Interface: 11306
 ## Interface-BCC: 20501
 ## Title: AdiBags: |cff69ccf0Sniper Classic|r
-## Notes: PrivateSniper's Custom AdiBags filters for Classic WoW
+## Notes: PrivateSniper's Custom AdiBags filters for Classic
 ## Author: PrivateSniper
 ## Version: 1.0.1
 ## Dependencies: AdiBags
