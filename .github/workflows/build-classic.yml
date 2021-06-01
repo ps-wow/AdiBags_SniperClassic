@@ -34,4 +34,4 @@ jobs:
       - name: Package BC Classic
         uses: BigWigsMods/packager@master
         with:
-          args: -g bc
+          args: -g bcc
