@@ -3,7 +3,7 @@ name: Package Classic addon
 on:
   push:
     branches:
-      - classic
+      - master
     tags:
       - '**-classic'
     paths-ignore:
