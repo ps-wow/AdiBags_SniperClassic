@@ -3,7 +3,7 @@
 ## Title: AdiBags: |cff69ccf0Sniper Classic|r
 ## Notes: PrivateSniper's Custom AdiBags filters for Classic
 ## Author: PrivateSniper
-## Version: 1.0.2
+## Version: 1.0.1
 ## Dependencies: AdiBags
 
 main.xml
